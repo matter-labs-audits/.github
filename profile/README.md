@@ -1,4 +1,4 @@
-# Matter Labs Aidits
+# Matter Labs Audits
 
 Our mission is to support the community and ecosystem by providing thorough and transparent security audits. 
 We aim to enhance the sanity, safety, and stability of decentralized applications built on zkSync.
