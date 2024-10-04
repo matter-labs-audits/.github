@@ -10,3 +10,6 @@ To contribute to a more robust, more secure L2 ecosystem by identifying vulnerab
 What we offer:
 - **Free Audits**: Free audits for essential and prominent zkSync community and ecosystem projects.
 - **Paid Audits**: Comprehensive security audits for all other blockchain-related projects.
+
+## Contact us
+Need an audit? Drop us an email at audits@matterlabs.dev.
