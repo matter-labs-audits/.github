@@ -8,5 +8,5 @@ We aim to enhance the sanity, safety, and stability of decentralized application
 To contribute to a more robust, more secure L2 ecosystem by identifying vulnerabilities and improving the safety of decentralized applications.
 
 What we offer:
-- **Free Audits**: Free audits for essential zkSync community and ecosystem projects.
+- **Free Audits**: Free audits for essential and prominent zkSync community and ecosystem projects.
 - **Paid Audits**: Comprehensive security audits for all other blockchain-related projects.
